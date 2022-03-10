@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="accessModifier"/>
+	<classpathentry kind="src" path="encapuslation"/>
+	<classpathentry kind="src" path="abstractDemo"/>
+	<classpathentry kind="src" path="interfaceDemo"/>
+	<classpathentry kind="src" path="constructorDemo"/>
+	<classpathentry kind="src" path="inheritanceDemo"/>
+	<classpathentry kind="src" path="polymorphismDemo"/>
+	<classpathentry kind="src" path="staticDemo"/>
+	<classpathentry kind="src" path="stringDemo"/>
+	<classpathentry kind="src" path="arrayDemo"/>
+	<classpathentry kind="src" path="exceptionDemo"/>
+	<classpathentry kind="src" path="collectionDemo"/>
+	<classpathentry kind="src" path="mapDemo"/>
+	<classpathentry kind="src" path="samplePrograms"/>
+	<classpathentry kind="src" path="conditionsDemoIF"/>
+	<classpathentry kind="src" path="loopDemo"/>
+	<classpathentry kind="src" path="finalDemo"/>
+	<classpathentry kind="src" path="patternPrograms"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
