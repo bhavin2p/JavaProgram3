@@ -2,6 +2,8 @@ package abstraction;
 
 public abstract class Car {
 	
+	final static double pi = 3.14;
+	
 	public Car() {
 		System.out.println("Hello Car Constructor");
 	}
