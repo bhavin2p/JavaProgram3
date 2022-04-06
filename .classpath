@@ -24,5 +24,7 @@
 	<classpathentry kind="src" path="loopDemo"/>
 	<classpathentry kind="src" path="finalDemo"/>
 	<classpathentry kind="src" path="patternPrograms"/>
+	<classpathentry kind="src" path="innerClassDemo"/>
+	<classpathentry kind="src" path="lambdademo"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
